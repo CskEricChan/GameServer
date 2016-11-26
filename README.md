@@ -1,2 +1,2 @@
 # GameServer
-基于C++的游戏服务器
+基于Python的游戏服务器
