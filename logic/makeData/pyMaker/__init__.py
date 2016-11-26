@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 
 #py文件生成器
 class cPyMaker(object):
@@ -52,7 +52,7 @@ class cPyMaker(object):
 		sFlag1,sFlag2=self.sBeginFlag,self.sEndFlag
 		if not os.path.exists(sPath):
 			sTemp='''#-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 '''+sFlag1+LINE_SEP+sTemp+LINE_SEP+sFlag2
 		else:
 			fDst=open(sPath,'rb')#读

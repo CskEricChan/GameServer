@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 #重写cLaunchMsg的几个方法就OK了！
 
 class cDropMng(object):

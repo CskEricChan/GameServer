@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 #
 import gevent.pool
 import endPointWithoutSocket
@@ -130,7 +130,7 @@ class cMSplayerEP(endPointWithoutSocket.cEndPointWithoutSocket):
 			
 			mainService.gEndPointKeeper.removeObj(self.epId())
 		elif oEndPoint:
-			print '哈哈,被我找到了,请通知叶伟龙.....'
+			print '哈哈,被我找到了,请通知马昭.....'
 			import traceback
 			traceback.print_stack()
 		endPointWithoutSocket.cEndPointWithoutSocket._onDisConnected(self)

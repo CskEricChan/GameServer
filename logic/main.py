@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 #请不要在这个模块写代码
 #要往init.py中写初始化代码
 class PlannerError(Exception):

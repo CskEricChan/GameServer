@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇 mail:guicheng.liao@baoyugame.com
+#作者:马昭@曹县闫店楼镇 mail:guicheng.liao@baoyugame.com
 
 import doorData
 import entity

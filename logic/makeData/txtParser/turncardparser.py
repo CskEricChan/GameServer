@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 import makeData.txtParser
 
 #小游戏-翻卡片 分析器(已弃用)

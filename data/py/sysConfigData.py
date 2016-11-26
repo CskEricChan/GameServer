@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 def getConfig(sVal,uDefault=0):
 	if sVal not in gdData:
 		raise PlannerError,'没有名为{}的变量'.format(sVal)

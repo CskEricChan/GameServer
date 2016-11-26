@@ -1,11 +1,11 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 
 IS_INNER_SERVER=True #是否内部服务器(测试服)
 SHOW_EXCEPTION=True #是否将exception信息发送到客户端
 
 ZONE_NO=1
-ZONE_NAME='测试服' #叶伟龙 ,黄旭林 ,庾子阳 ,郭超贤 ,测试服 
+ZONE_NAME='测试服'
 PAGE_NO=1
 
 ZONE_ID=12572	#区id(全世界唯一,无论是腾讯大区,自运营大区,美国大区,还是德国大区,彼此之间不重复)程序员硬编码时才会用到这个id
@@ -62,8 +62,8 @@ LOGIN_DATABASE_NAME='planb_login' #一定要用小写,断词用下划线,因为�
 
 
 #机器人
-ROBOT_SERVER_IP='127.0.0.1' #'218.15.113.131' 
-ROBOT_SERVER_PORT=51101 
+ROBOT_SERVER_IP='127.0.0.1' #'218.15.113.131'
+ROBOT_SERVER_PORT=51101
 ROBOT_COUNT =200  # 机器人账号数量
 WALK_INTERVAL =2 # 0.1 # 走路频率，即每步多少秒
 RPC_MOVE_INTERVAL = 1 # 走路发包频率，即走多少步才发移动包给服务端

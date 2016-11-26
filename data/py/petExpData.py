@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 def getConfig(iLv,sKey,uDefault=0):
 	if iLv not in gdData:
 		raise PlannerError,'宠物经验表没有{}级的属性'.format(iLv)

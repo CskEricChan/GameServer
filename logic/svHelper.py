@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 def application(env,start_response):
 	#print 'env[\'PATH_INFO\']=',env['PATH_INFO']	
 	if env['PATH_INFO'] == '/':

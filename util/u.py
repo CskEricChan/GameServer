@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 #公共模块,不为某一个服务或某一个游戏
 
 def recursiveEncode(obj,sTargetCode='utf-8'):#递归地把unicode转成utf-8

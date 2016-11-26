@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 import productKeeper
 
 #jit是 just in time的意思,需要时从临时数据库加载回来,用完差不多就踢回数据库

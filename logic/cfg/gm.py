@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-#作者:叶伟龙@龙川县赤光镇
+#作者:马昭@曹县闫店楼镇
 import md5
 import instruction
 
@@ -16,7 +16,7 @@ import instruction
 #(用户来源,账号):所属用户组
 #一个用户可以属于多个用户组
 gdGm={
-	# #叶伟龙
+	# #马昭
 	('1000','123'):instruction.ADMIN|instruction.FAKE,#
 
 	# ('1000','1026517067'):instruction.ADMIN|instruction.FAKE,	#账号:15920112342 密码:asdfghjkl
